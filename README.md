@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Matias Pulgar👋
 
-<!--
-**GalardonMT/GalardonMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la UTEM enfocado en el desarrollo de software y la infraestructura TI.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
+* 🎓 Estudiante de la Universidad Tecnológica Metropolitana.
+* 🌱 Actualmente aprendiendo sobre integración de APIs, automatización y despliegue de aplicaciones.
+* 💡 Me interesa tanto la lógica detrás de las interfaces interactivas como la configuración de servidores y entornos virtuales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+**Lenguajes y Desarrollo Web:**
+* JavaScript, HTML, CSS
+* Python, C++
+* Django REST Framework
+
+**Infraestructura, Datos y Automatización:**
+* PostgreSQL
+* AWS (Cloud Foundations & Introduction to Cloud)
+* Red Hat Linux (System Administration I)
+* n8n
+
+## 📫 Conecta conmigo
+* [LinkedIn]([tu-enlace-de-linkedin-aqui](http://www.linkedin.com/in/matias-pulgar-gallardo-3833242b4))
+* Correo: [pulgarmatiasmt@gmail.com]
