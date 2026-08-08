@@ -21,5 +21,5 @@ Estudiante de la UTEM enfocado en el desarrollo de software y la infraestructura
 * n8n
 
 ## 📫 Conecta conmigo
-* [LinkedIn]([tu-enlace-de-linkedin-aqui](http://www.linkedin.com/in/matias-pulgar-gallardo-3833242b4))
+* [LinkedIn]([http://www.linkedin.com/in/matias-pulgar-gallardo-3833242b4])
 * Correo: [pulgarmatiasmt@gmail.com]
